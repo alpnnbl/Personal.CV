@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Be+Vietnam+Pro&family=Open+Sans:wght@300&family=Oswald&display=swap');
+
+/* Header */
+
+.photo {
+  width: 350px;
+  justify-content: space-evenly;
+  border: 10px solid black;
+  box-shadow: 0px 0px 40px rgb(0, 0, 0);
+  border-radius: 20px;
+}
+
+.line1 {
+  width: 60%;
+  border: 5px solid black;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  margin-top: 2%;
+}
+
+.line2 {
+  width: 60%;
+  border: 5px solid black;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  margin-top: -46%;
+  margin-left: 36%;
+}
+
+.nama {
+  margin-left: 40%;
+  margin-top: 11%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
+  text-shadow: 3px 0px 5px rgb(0, 0, 0);
+}
+
+.container1 {
+  display: grid ;
+  margin-left: 80px;
+  margin-top: 70px;
+}
+
+.skill {
+  margin-left: 40%;
+  margin-top: -6%;
+  font-family: 'arial';
+  font-size: 25px;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+/* Bakground Profile-Experience */
+
+.profile {
+  margin-top: 16%;
+  background-color: rgb(0, 0, 0);
+  width: 45%;
+  height: 210%;
+  box-shadow: 0px 0px 20px rgb(0, 0, 0);
+  border-radius: 20px;  
+}
+
+/* Profile */
+
+h3 {
+  margin-top: 2%;
+  color: white;
+  font-size: 50px;
+  text-shadow: 2px 2px 10px rgb(255, 255, 255);
+  margin-left: 182px;
+}
+
+.school {
+  margin-top: -4%;
+  color: rgb(255, 255, 255);
+  margin-left: 45px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Education */
+
+.education {
+  margin-top: -3%;
+  color: white;
+  font-size: 50px;
+  text-shadow: 2px 2px 10px rgb(255, 255, 255);
+  margin-left: 140px;
+}
+
+.note {
+  margin-top: -5%;
+  color: white;
+  margin-left: 45px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Experience */
+
+.experience {
+  margin-top: -3%;
+  color: white;
+  font-size: 50px;
+  text-shadow: 2px 2px 10px rgb(255, 255, 255);
+  margin-left: 150px;
+}
+
+.note2 {
+  margin-top: -5%;
+  color: white;
+  margin-left: 45px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Languange */
+
+h6 {
+  margin-top: -50%;
+  font-size: 35px;
+  text-shadow: 2px 2px 2px rgb(0, 102, 255);
+  margin-left: 50%;
+  line-height: 30px;
+}
+
+.l1 {
+  margin-top: -46%;
+  margin-left: 53%;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+/* Contact */
+
+.contact1 {
+  margin-top: -38%;
+  font-size: 38px;
+  font-family: 'arial';
+  text-shadow: 2px 2px 2px rgb(0, 255, 17);
+  margin-left: 52%;
+  line-height: 28px;
+  font-weight: bold;
+}
+
+.tlp1 {
+  justify-content: space-evenly;
+  width: 70px;
+  margin-left: 7%;
+  margin-top: -10%;
+}
+
+.notlp {
+  margin-top: -25%;
+  margin-left: 50%;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+/* Email */
+
+.mail {
+  margin-top: -19%;
+  font-family: 'arial';
+  font-size: 36px;
+  text-shadow: 2px 2px 2px rgb(255, 0, 0);
+  margin-left: 54%;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+.email {
+  justify-content: space-evenly;
+  width: 120px;
+  margin-left: -2%;
+  margin-top: -7%;
+}
+
+.accmail {
+  margin-top: -5%;
+  margin-left: 48%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Garis batas */
+
+.line3 {
+  width: 0%;
+  height: 1020%;
+  border: 5px solid black;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  margin-top: -95%;
+  margin-left: 45%;
+}
+
+/* Address */
+
+.almt {
+  margin-top: -52%;
+  font-family: 'arial';
+  font-size: 36px;
+  text-shadow: 2px 2px 2px rgb(231, 142, 8);
+  margin-left: 80%;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+.almt1 {
+  justify-content: space-evenly;
+  width: 95px;
+  margin-left: 12%;
+  margin-top: -14%;
+}
+
+.jalan {
+  margin-top: -36%;
+  margin-left: 75%;
+  font-size: 19px;
+  font-weight: bold;
+}
+
+/* Skill */
+
+.skill1 {
+  margin-top: -26%;
+  font-family: 'arial';
+  font-size: 36px;
+  text-shadow: 2px 2px 2px rgb(255, 0, 217);
+  margin-left: 83%;
+  line-height: 24px;
+  font-weight: bold;
+}
+
+.skill2 {
+  margin-top: -20%;
+  margin-left: 73%;
+  font-size: 19px;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .photo {
+    width: 130px;
+  }
+
+  .line1 {
+  width: 60%;
+  border: 5px solid black;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  margin-top: 3%;
+  }
+
+  .line2 {
+  width: 60%;
+  border: 5px solid black;
+  box-shadow: 5px 5px 5px rgb(0, 0, 0);
+  margin-top: -74%;
+  margin-left: 27%;
+  }
+
+  .nama {
+  margin-left: 40%;
+  margin-top: 4%;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 9px;
+  text-shadow: 3px 0px 5px rgb(0, 0, 0);
+  }
+
+  .container1 {
+  margin-left: 20px;
+  margin-top: 70px;
+  }
+  
+  .skill {
+  margin-left: 40%;
+  margin-top: -6%;
+  font-family: 'arial';
+  font-size: 10px;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  }
+
+  /* Profile */
+
+  .profile {
+  margin-top: 39%;
+  background-color: rgb(0, 0, 0);
+  width: 45%;
+  height: 210%;
+  box-shadow: 0px 0px 20px rgb(0, 0, 0);
+  border-radius: 20px; 
+  }
+}
+
+
+
